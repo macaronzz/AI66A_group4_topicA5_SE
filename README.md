@@ -6,7 +6,10 @@ One-paragraph description of what your team is building goes here.
 
 | Name | GitHub username | Role |
 | --- | --- | --- |
-| _add yourself here_ | | |
+| Do Quang Trung | macaronzz | Leader |
+| Nguyen Quang Huy | criticalmatt-dot | Member |
+| Vu Ngoc Hai | HaiMeoden | Member |
+| Trinh Duc Thanh | Thanh-dev-192006 | Member |
 
 ## Setup
 
